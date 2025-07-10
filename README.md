@@ -98,7 +98,7 @@ Text-to-image-generator-project/
 
 🛠️ 1. Clone the Repository
 
-git clone https://github.com/Shraddhaab12/Text-to-Image-Generator
+git clone https://github.com/Vaishu1302/Text-to-Image-Generator.git
 (Replace with your actual repo URL)
 
 
